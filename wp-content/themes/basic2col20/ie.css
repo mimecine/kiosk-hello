@@ -1,0 +1,7 @@
+#wrap {height: 1%;}
+#content {display: inline;}
+#sidebar {display: inline;word-wrap: break-word;}
+#sidebar ul {list-style-postition: outside;margin: 2px 0px;}
+#sidebar h2 {margin: 2px 0px;}
+#sidebar div {margin: 2px 1em 2px 1px;}
+.story, .comment_text {font-size: 1em;}
